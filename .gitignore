@@ -1,0 +1,18 @@
+# Environment variables
+.env
+.env.*
+
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS
+.DS_Store
